@@ -1,6 +1,6 @@
 # Chat-Room
 The Final Project in Computer Networking Course , Ariel University's C.S Faculty.
-There goal here is to create a multi client chat app (that we called SBC), That will allow the clients to speak to each other as well as download some file (txt) from the server.
+There goal here is to create a multi client chat app, That will allow the clients to speak to each other as well as download some file (txt) from the server.
 But, for the sake of practice, We were required to meet the following tasks:
 
 To Create a GUI for the Server and for the Clients.
